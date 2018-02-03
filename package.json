@@ -1,0 +1,22 @@
+{
+  "name": "coin_game",
+  "version": "1.0.0",
+  "description": "Practicing simple game from Treehouse course",
+  "main": "game.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Austinparisi42/Coin_Game.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Austinparisi42/Coin_Game/issues"
+  },
+  "homepage": "https://github.com/Austinparisi42/Coin_Game#readme",
+  "dependencies": {
+    "phaser-ce": "^2.10.0"
+  }
+}
